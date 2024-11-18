@@ -69,8 +69,8 @@ export const NAV_LINKS = [
   export const FOOTER_CONTACT_INFO = {
     title: 'Contact Us',
     links: [
-      { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Admin Officer', value: '+27 65 918 9012' },
+      { label: 'Email Officer', value: 'booking@theluckysibiya.com' },
     ],
   };
   
@@ -81,6 +81,5 @@ export const NAV_LINKS = [
       '/instagram.svg',
       '/twitter.svg',
       '/youtube.svg',
-      '/wordpress.svg',
     ],
   };
