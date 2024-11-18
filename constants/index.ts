@@ -62,7 +62,7 @@ export const NAV_LINKS = [
     },
     {
       title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+      links: ['The Lucky Sibiya Studio', ' The Lucky Sibiya Studio', 'The Lucky Sibiya Studio '],
     },
   ];
   
