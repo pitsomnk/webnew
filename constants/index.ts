@@ -52,7 +52,7 @@ export const NAV_LINKS = [
     {
       title: 'Learn More',
       links: [
-        'About Hilink',
+        'About The Lucky Sibiya Studio',
         'Press Releases',
         'Environment',
         'Jobs',
