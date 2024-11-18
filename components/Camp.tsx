@@ -68,10 +68,10 @@ const Camp = () => {
       <div className="flexEnd mt-10 px-6 lg:-mt-60 lg:mr-6">
         <div className="bg-amber-600 p-8 lg:max-w-[500px] xl:max-w-[734px] xl:rounded-5xl xl:px-16 xl:py-20 relative w-full overflow-hidden rounded-3xl">
           <h2 className="regular-24 md:regular-32 2xl:regular-64 capitalize text-white">
-            <strong>Feeling Lost</strong> And Not Knowing The Way?
+            <strong>In Search </strong> Of The Perfect Getaway?
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-            Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That's why we are here for those of you who want to start an adventure
+          You've found it! Our unique blend of comfort and adventure promises an unforgettable experience. Located in a serene neighborhood, our welcoming home is ideal for a relaxing escape or an adventurous journey. Explore our on-site art gallery and be inspired by the beautiful collections on display.
           </p>
           <Image 
             src="/quote.svg"
