@@ -42,9 +42,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className="relative flex flex-1 items-start">
-         <Image src="/galog.png" alt="gallery" className="rounded-3xl" width={968} height={510} />
-      </div>
+      
       
     </section>
   )

@@ -3,11 +3,16 @@ import Camp from "@/components/Camp";
 import Guide from "@/components/Guide";
 import Slider from "@/components/Slider";
 import Button from "@/components/Button";
+import Camp1 from "@/components/Camp1";
+import Slider1 from "@/components/Slider1";
+
 
 export default function Home() {
   return (
     <div>
+      <Camp1/>
       <Hero />
+      <Slider1/>
       <Camp />
       <Guide />
       <section className="max-container padding-container flex flex-col gap-20 py-10 pb-32 md:gap-28 lg:py-20 xl:flex-row">
