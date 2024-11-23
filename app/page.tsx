@@ -10,8 +10,10 @@ import Slider1 from "@/components/Slider1";
 export default function Home() {
   return (
     <div>
-      <Camp1/>
+      
+      
       <Hero />
+      
       <Slider1/>
       <Camp />
       <Guide />

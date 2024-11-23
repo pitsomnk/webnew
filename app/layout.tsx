@@ -3,6 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Camp1 from "@/components/Camp1";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -30,7 +31,10 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <div className="h-96 max-w-screen-2xl mx-auto flex flex-col justify-center items-center" style={{ backgroundImage: "url('/back.png')", backgroundSize: 'cover', backgroundPosition: 'center', }}>
         <Navbar />
+        <Camp1/>
+        </div>
         <main className="relative overflow-hidden">{children}</main>
         <Footer />
       </body>

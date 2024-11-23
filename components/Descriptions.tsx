@@ -13,7 +13,7 @@ type Props = {
 
 const Description = ({ activeImage, clickNext, clickPrev }: Props) => {
   return (
-    <div className="grid place-items-start w-full bg-[#4e4d4c] text-white relative md:rounded-tr-3xl md:rounded-br-3xl">
+    <div className="grid place-items-start w-full bg-amber-500 relative md:rounded-tr-3xl md:rounded-br-3xl">
       <div className="uppercase text-sm absolute right-4 top-2 underline-offset-4 underline">
         some of our featured art
       </div>
